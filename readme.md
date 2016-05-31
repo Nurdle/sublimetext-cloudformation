@@ -16,6 +16,7 @@ Copy the .tmLanguage files into your packages folder
 ## Roadmap
 
 * Switch to new .sublime-syntax format to support context sensitivy over multiple text lines (https://www.sublimetext.com/docs/3/syntax.html)
+* Change installation to use Package Control
 * Add keys for new AWS CloudFormation features since December 23, 2015 (http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/ReleaseHistory.html)
 
 ## Source
